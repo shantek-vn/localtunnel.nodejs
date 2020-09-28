@@ -73,6 +73,7 @@ const localtunnel = require('localtunnel');
 })();
 ```
 
+
 #### options
 
 - `port` (number) [required] The local port number to expose through localtunnel.
